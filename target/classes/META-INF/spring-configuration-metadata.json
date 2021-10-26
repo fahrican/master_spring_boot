@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "info.app",
+      "type": "com.example.master_spring_boot.infoapp.InfoApp",
+      "sourceType": "com.example.master_spring_boot.infoapp.InfoApp"
+    }
+  ],
+  "properties": [
+    {
+      "name": "info.app.description",
+      "type": "java.lang.String",
+      "sourceType": "com.example.master_spring_boot.infoapp.InfoApp"
+    },
+    {
+      "name": "info.app.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.master_spring_boot.infoapp.InfoApp"
+    },
+    {
+      "name": "info.app.version",
+      "type": "java.lang.String",
+      "sourceType": "com.example.master_spring_boot.infoapp.InfoApp"
+    }
+  ],
+  "hints": []
+}
